@@ -1,0 +1,15 @@
+html{
+
+}
+body{
+    margin: 0;
+}
+.LateralPanel{
+    width: 20%; height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #1992D4;
+}
+.LateralPanel div{
+    
+}
